@@ -1,3 +1,7 @@
+"""
+This script uses the Databricks API to create a pipeline with a single task, which is the specified notebook.
+"""
+
 import requests
 import json
 
